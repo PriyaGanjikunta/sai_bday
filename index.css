@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #386150;
+    text-align: center;
+    margin-top: 15vh;
+    align-items: center;
+}
+.hd1{
+    font-style: italic;
+    font-size: 3vw;
+    text-decoration: underline;
+}
+
+.im1{
+    height: 80vh;
+    width: 30vw;
+}
+.d1{
+    height: 81vh;
+    width: 31vw;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30vw;
+}
+
+a{
+    font-size: 2vw;
+    margin-left: 50vw;
+    margin-top: 50vh;
+    color: black;
+}
+.hea1{
+    margin-left: 50vw;
+    margin-top: 50vh;
+    color: black;
+    font-size: 3vw;
+}
